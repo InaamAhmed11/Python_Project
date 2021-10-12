@@ -11,4 +11,4 @@ while d < 2:
         print(f"{a} {c} {b} = {a * b}")
     elif c == "/":
         print(f"{a} {c} {b} = {a / b}")
-    else: print("!Warning invalid number")
+    else: print("!Warning invalid number") 
